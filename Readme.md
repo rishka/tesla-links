@@ -1,1 +1,1 @@
-[Crunchyroll](https://youtube.com/?redirect=crunchyroll.com)
+[Crunchyroll](https://youtube.com/redirect?q=crunchyroll.com)
